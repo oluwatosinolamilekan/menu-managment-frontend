@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+<p align="center"><a href="#" target="_blank">
+    Menu Managment
+</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Overview
+
+The Menu Management app that just design requested from figma design.
+
+
 
 ## Available Scripts
 
